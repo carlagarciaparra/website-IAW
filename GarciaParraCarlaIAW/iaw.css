@@ -1,0 +1,29 @@
+
+
+body {
+				margin:0px;
+                font-family: Arial, Helvetica, sans-serif;
+                background-color: #ffe0ff;
+				text-align: center;
+			}
+			header {
+				text-align:center;
+				background-color:#74003f;
+				color:white;
+				padding:1px;
+			}
+			footer {
+				text-align:center;
+				background-color:#74003f; 
+				color:white;
+                padding: 1%;
+				font-size:100%;
+			}
+.unidades{
+	text-aling: left;
+}
+
+aside {
+    float: left;
+    width: 40%;
+}
